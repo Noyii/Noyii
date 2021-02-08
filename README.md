@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##### <center>“With that disappearance, he knew, even as Noys moved slowly into his arms, came the end, the final end of Eternity.</center>
+##### <center>– And the beginning of Infinity.”</center>
+##### <p align="right">Excerpt From: Isaac  Asimov. “The End of Eternity.”</p>
+
+
 <!--
 **Noyii/Noyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
